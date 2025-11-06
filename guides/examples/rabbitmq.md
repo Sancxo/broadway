@@ -134,7 +134,7 @@ you'll need to provide your credentials using the `connection` option:
     ...
 
 For the full list of `connection` options, please see
-[`AMQP.Connection.open/1`](https://hexdocs.pm/amqp/1.1.1/AMQP.Connection.html#open/1)
+[`AMQP.Connection.open/2`](https://hexdocs.pm/amqp/AMQP.Connection.html#open/2-options)
 
 For general information about setting up Broadway, see `Broadway`
 module docs as well as `Broadway.start_link/2`.
